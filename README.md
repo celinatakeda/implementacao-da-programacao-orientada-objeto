@@ -1,4 +1,4 @@
-# Implementacao-da-Programacao-Orientada-Objeto
+# Implementação da Programação Orientada Objeto
  Principais conceitos da programação orientada a objetos.
  
  * __Classe e Objeto__. 
